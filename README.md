@@ -1,5 +1,4 @@
-# ECS324 – VLSI Testing and Verification  
-## Formal Verification Lab — Questa Formal
+# Formal Verification
 
 ---
 
